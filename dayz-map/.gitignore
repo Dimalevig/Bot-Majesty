@@ -1,0 +1,3 @@
+# large files, regenerate with tools/generate_terrain.py
+output/heightmap.asc
+output/satellite.png
